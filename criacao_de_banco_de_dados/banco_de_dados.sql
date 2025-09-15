@@ -11,4 +11,4 @@ INSERT INTO Alunos (ra, nome, idade, curso) VALUES (2, 'Maria', 19, 'Design');
 INSERT INTO Alunos (ra, nome, idade, curso) VALUES (3, 'Pedro', 21, 'Administração');
 
 -- Consultando todos os alunos
-SELECT * FROM Alunos;
+SELECT * FROM Alunos; 
